@@ -144,5 +144,5 @@ POST /api/Account/assign-role?userName=Mahmoud_Ahmed&role=Student
 
 ---
 
-> ℹ️ This documentation is based on the Swagger UI available for the backend service of the Bug Ticketing System.
+
 
